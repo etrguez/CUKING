@@ -1,0 +1,37 @@
+SITE RECETTE CUISINE
+
+
+
+Structure de la maquette :
+Page d’accueil (Home)
+
+Un grand bandeau avec une image appétissante en fond.
+Un moteur de recherche pour rechercher des recettes par ingrédient ou par type de plat (entrée, plat, dessert).
+Une section « Recettes populaires » avec des miniatures des recettes les plus appréciées.
+Page des recettes (Recettes)
+
+
+Une liste de recettes avec des filtres par catégorie (type de plat, durée de préparation, régime alimentaire).
+Chaque recette inclut un titre, une image miniature et un extrait.
+Pagination si nécessaire.
+Page de détails d’une recette
+
+Titre de la recette, une grande image, et les informations de préparation (temps, ingrédients, étapes).
+Bouton pour imprimer la recette.
+Option de noter la recette (étoiles) et laisser des commentaires.
+Page Contact
+
+Formulaire simple avec un système d’envoi d’e-mails via PHP pour recevoir des suggestions ou des commentaires des visiteurs.
+Page d’ajout de recettes (optionnel, pour l’admin)
+
+Une interface réservée à l’administrateur pour ajouter de nouvelles recettes avec un formulaire (titre, image, description, liste d’ingrédients, etc.).
+Technologies à utiliser :
+HTML/CSS : pour la mise en page et le style général du site.
+JavaScript : pour rendre le site interactif (recherche dynamique, animations de chargement).
+PHP : pour gérer le backend (gestion du formulaire de contact, gestion des recettes, etc.).
+MySQL (ou SQLite) : pour stocker les recettes si tu veux ajouter une base de données.
+Fonctionnalités avancées (facultatif) :
+Système de comptes utilisateurs pour permettre aux visiteurs de créer un compte, enregistrer leurs recettes favorites, ou même soumettre leurs propres recettes.
+Section de commentaires et notation pour chaque recette.
+Recherche avancée avec des filtres (ingrédients, temps de préparation, etc.).
+Le site de recettes est un projet parfait pour explorer les bases du développement avec des fonctionnalités utiles et des interactions simples. C’est un excellent moyen de mettre en avant tes compétences en design et développement tout en créant un projet agréable à utiliser.
